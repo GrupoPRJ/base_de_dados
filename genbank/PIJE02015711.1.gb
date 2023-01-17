@@ -1,0 +1,148 @@
+LOCUS       PIJE02015711            4394 bp    DNA     linear   VRT 29-JUN-2021
+DEFINITION  Coryphaenoides rupestris isolate MGRH-2017 Cru_15715, whole genome
+            shotgun sequence.
+ACCESSION   PIJE02015711 PIJE02000000
+VERSION     PIJE02015711.1
+DBLINK      BioProject: PRJNA417902
+            BioSample: SAMN08010939
+KEYWORDS    WGS.
+SOURCE      Coryphaenoides rupestris (roundnose grenadier)
+  ORGANISM  Coryphaenoides rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Macrouroidei;
+            Macrouridae; Macrourinae; Coryphaenoides.
+REFERENCE   1  (bases 1 to 4394)
+  AUTHORS   Gaither,M.R., Gkafas,G.A., de Jong,M., Sarigol,F., Neat,F.,
+            Regnier,T., Moore,D., Grcke,D.R., Hall,N., Liu,X., Kenny,J.,
+            Lucaci,A., Hughes,M., Haldenby,S. and Hoelzel,A.R.
+  TITLE     Genomics of habitat choice and adaptive evolution in a deep-sea
+            fish
+  JOURNAL   Nat Ecol Evol 2 (4), 680-687 (2018)
+   PUBMED   29507380
+REFERENCE   2  (bases 1 to 4394)
+  AUTHORS   Gaither,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2017) University of Liverpool, Centre for Genomic
+            Research, Crown Street, Liverpool L69 7ZB, United Kingdom
+REFERENCE   3  (bases 1 to 4394)
+  AUTHORS   Gaither,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2021) Department of Biosciences, Durham
+            University, Stockton Road, Durham DH1 3LE, United Kingdom
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date          :: 01-JAN-2021
+            Assembly Method        :: ABySS v. JAN 2021; SSPACE v. JAN 2021;
+                                      PBjelly v. JAN 2021
+            Assembly Name          :: CRUPv2
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 50.0x
+            Sequencing Technology  :: Illumina HiSeq; PacBio
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..4394
+                     /organism="Coryphaenoides rupestris"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Cru_15715"
+                     /isolate="MGRH-2017"
+                     /db_xref="taxon:163118"
+                     /tissue_type="Muscle and Fin"
+                     /dev_stage="adult"
+                     /ecotype="Mid-Atlantic Ridge"
+     gene            393..>4276
+                     /locus_tag="CRUP_033865"
+                     /note="Similar to TCFL5: Transcription factor-like 5
+                     protein (Homo sapiens)"
+     mRNA            join(393..443,1001..1116,1771..1912,2315..2365,
+                     4190..>4276)
+                     /locus_tag="CRUP_033865"
+                     /product="hypothetical protein"
+                     /note="Similar to TCFL5: Transcription factor-like 5
+                     protein (Homo sapiens)"
+     CDS             join(393..443,1001..1116,1771..1912,2315..2365,
+                     4190..>4276)
+                     /locus_tag="CRUP_033865"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KAG7249354.1"
+                     /translation="MELSNPYGGALYNPITGLEEPKAAGGAGRSSRRRSGSPANSSKR
+                     RENHNYKERDRRRRIRMHCRELNSLVPFCTPTTDKATTLQWTTAFVRHIQDVYGDTLK
+                     ENFESAFYDQRTSTDWLRARLGLLVLRRVRPSPRQPLPEDLLATVCK"
+ORIGIN      
+        1 tgagtgtgat taagttgatt actagatcag tctaccagcc tactcagtgg actgtaccga
+       61 caggtaaact gatctagtca gatcatacat ctaggtggac attcccactt gtgatgtcac
+      121 tagacggtag tcacatggca attgtgaaac ggcttgcaat ggctaatcac actcacacct
+      181 ggtggcataa tatgtcccct ttaatggtat agcgtttaag tcagcagagg ttcacccaac
+      241 ccccagactc tgaatgatta atgatcaatg ctatagtgtg ccaaataaat agtatatatt
+      301 gttctgtccc cagttattgg gcgatgcttc agcaacccac tgaatctcaa gaagcagcca
+      361 tccatccaca aatcccgaag tggatgaatc ctatggagct gtccaacccg tacggagggg
+      421 ccctgtacaa cccaatcacc ggcgtgtgta gacaagtaca aattatgaat gtgaaacagt
+      481 tgcatttgta cgactctctt gtcttggtgt actgttcgct aatcaatacc cccccgcctt
+      541 ttttttccca tgttcatctc aggcttttgg acatatttcc catattgttg aacccaacaa
+      601 gcatccacaa ggattgatca atgcaaatca cttcttaagc catcgtccag agagagcggc
+      661 tgttagtgcg aagtgcaccg gccgcaccaa gcaaaaactg aacgtggaaa gtaagaattc
+      721 ttgtttatta tgtgtctata ggtcatattt gatatatgct gataaaggat gccatgttaa
+      781 aggaccccta ttttaccacc aggtgtgagt gtgataagcc gttatatgta tatggtaatt
+      841 gtgacatagt gacatgtatg acgatgacta gatcagccca ctagtctacc cagcggactg
+      901 tattattatt tatgtagagg aggctgtggc tacagccccc actaagcaca ccaaggaggc
+      961 caggggccgg caggggggcc cccccagtgt ggccccacag ctagaggagc ctaaggccgc
+     1021 tggaggagca gggaggagca gcaggaggag gtcaggctcc ccggcgaaca gcagcaaacg
+     1081 cagggagaac cacaactaca aggagaggga ccgcaggtag gcaggagtcc agagctgcca
+     1141 gcatctctag tcccggttgg acacaacaag ccttcattct taaagtaaat ggttacagtt
+     1201 gctttacagt actgcctcac attcacccat tcatacaccg acggcggtgt caaccatgca
+     1261 aggtaacaac caacacgtca ggagcaggta gggttaggtg gtgtcttgct cagggacacc
+     1321 tccacactta gctaggagga ggaggagccc ggggatcgaa ccagcaacct tcctgttgcc
+     1381 agacaactgc tcttagctcc tgagctactg taaatggatt gcatttatgc agcgcttttg
+     1441 tccaaaacgc tttacagtat tgcctcacat tcacccattc atacacacat tcatacaccg
+     1501 acggcggtgt caaccatgca aggcagcaac catctggtcg ggatgcagtt gggtgttagg
+     1561 gtcaggtgtc ttgctcaggg acacctagac gcttagctag ggggagccgg ggatccaacc
+     1621 agcaaccttt cctcctgagc tactgccgcc ctggtacata ctcacgatag cttagtttac
+     1681 tttgcacgcg agtgagtcca ggatgtgtca aacatttcat tcattccctc tgatgtgctt
+     1741 ggctgcatgt gtccggccac cgttgtgcag gaggaggatt cgcatgcact gcagagagct
+     1801 gaactccctg gtgccgttct gcacgccgac caccgacaag gccaccaccc tgcagtggac
+     1861 cacagccttc gtcaggcaca tccaggacgt gtacggagac acgctcaaag aggtacttag
+     1921 ccgcacatga gttagtggcg tgtcatttct atcgccgtcg tgtggatcgc cactcaaatc
+     1981 ctctcctgac cgacaccgta gtactcgtaa agggagagtg aagatctttg taatttctca
+     2041 tcatctcaac atcatgggac ggactgagcc tgacctaatg accccatttt aaacaatatt
+     2101 ttatgataca taaagtcagt aaacacaaaa tcaatgtcaa aagttaaaag taaaacttaa
+     2161 gttgaaatat cacttgtaaa ttgtaaatgg ttgcctcctg caaagccatc agggtaagaa
+     2221 tttgtggaat aataataata ataataataa taataatatt gtgtcgtggt gattagcctc
+     2281 acaaagtctc tctgtgtgtc tgctttgaac acagaacttt gagagcgcat tctatgatca
+     2341 gaggaccagc acggactggc tgcgggtcaa ccaggagggg ccagcagaca cagcaagcac
+     2401 tgaacaatga accccacaca cacacacaca cacacacaca cacacacaca cacacacaca
+     2461 cacacacaca cacacacaca cacacacaca cacacacaca cacagacaca cacacacaca
+     2521 cacagacaca cacaccactc tatctgttct gttagataca tgtcccaaat tatttattat
+     2581 atttatattt taggtttcaa gaaggcatga ctggcctcca gggtgtctct ctaactatga
+     2641 gttctcctga tggtttctct caaaaagcct ttaacaacaa ttgcttttgg gagccacatt
+     2701 tgtttttaca gtgcattgca gaaagtcata tacaggtggc gctgttttgc attgaaagac
+     2761 aacttacagg gcgttccact tatttaaagt atttattatt atcagtcaag atattcttat
+     2821 ccaaggcact gatttaagaa acaaaatcca attacatttt acatctgtta catttcagcg
+     2881 gattttttaa aagtgttcag cgtttgtttg cgcagttctt aatgaatgtc aaatgtctac
+     2941 aagtatgtat tttttcatac gattttattt ttcctggttg tgttcaattc aaagtaaatg
+     3001 ttattggttg gtttgtattt tgttttgagg ttatcttgat ttagagaaca gtaatgtttt
+     3061 actggaaagt ggctttattt gttatttctc acaacatgac gctgtagcat cttactgtac
+     3121 atacaacagt cacccacaaa taataaatag tatttaaacg tatgtatatt taattgttac
+     3181 agcaccagta ttacatagtg gatgtggtca ttggagaact gaaaaaagaa aacttccata
+     3241 aattcttctc gctgcaatat cccaattctt catccacatc ggagtttatc gttaatcgtc
+     3301 aaaactagtc tgaagggaaa atgtctgaac ttgtattttt atgtcattaa acataaacat
+     3361 taacataaaa actgttaaaa aaaaacaata aagaaagctt ttgcattaat atacacaaat
+     3421 tctgggctgg gttttccttc tttgtttttt aattttagtt acaaaaagta caaattgtca
+     3481 ccactagcct ctcagctctg gcccaccatc tctatattac aatgtgtatg ttgttgactt
+     3541 ctgaggtaac acctggaatg aacattaata gaccatgata ctcgcacata agaacaatca
+     3601 cagttgtgct aaagagcgct atctgtagcg gggggggggt aagttggcgt gggtattttt
+     3661 tttgtacaaa ccaaggattg agaaaatgaa tgtactacgg gcaccttctg acgagtcatc
+     3721 caaagtcagg ctgcgaggct gtcgttacgc gtcgatgtta attgccgcac cgcagggggt
+     3781 tgtgttgcac tcttgtctca ctctcgtccg tttcattgat gtgatcaata tttttagtct
+     3841 ctcagctttg ttctcttcac actcgtgttg tttccatccc gtttcctcct ctgaaatccc
+     3901 gtcttgtatt atttactacg caaggaggaa acgtgtgtgt gtgtgtgtgt gtgtgtgtgt
+     3961 gcgatgactt gtctcttctc tcctccacac cgctgtctcc tcctcctgct cctcctcctc
+     4021 ctcttctggt cacccatctt gatgggtggc gtcgggcagc cgagtcacgt ctaatggttc
+     4081 ttggggttgg aggatttccc tgcggctatg gcgccctggc aggccgaagt gtcacagatt
+     4141 cctggggttc cgtggtgccc agtccttccc accctgccgg actctccagg ctcgcctggg
+     4201 tctcctggtg ctccgtcgcg tccgtccttc accacgccag ccactcccgg aagacctgtt
+     4261 ggcaaccgtg tgcaaggtgg gtctacgaga ctgaccagtg gtgggtgatt ttggacaaca
+     4321 ttgctgtttg ctcaggtcac taaccttggt aaccctgatc tccaacgggc ccctcaatag
+     4381 ctttgccaat aggt
+//
+

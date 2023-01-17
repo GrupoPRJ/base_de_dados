@@ -1,0 +1,501 @@
+LOCUS       NM_001368719           14636 bp    mRNA    linear   PRI 18-DEC-2022
+DEFINITION  Homo sapiens gremlin 1, DAN family BMP antagonist (GREM1),
+            transcript variant 4, mRNA.
+ACCESSION   NM_001368719
+VERSION     NM_001368719.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 14636)
+  AUTHORS   .
+  TITLE     GREM1 Restricts Plasticity and Maintains Heterogeneity in
+            Pancreatic Cancer
+  JOURNAL   Cancer Discov 12 (9), 2013 (2022)
+   PUBMED   35801926
+  REMARK    GeneRIF: GREM1 Restricts Plasticity and Maintains Heterogeneity in
+            Pancreatic Cancer.
+REFERENCE   2  (bases 1 to 14636)
+  AUTHORS   Baboota RK, Rawshani A, Bonnet L, Li X, Yang H, Mardinoglu A,
+            Tchkonia T, Kirkland JL, Hoffmann A, Dietrich A, Boucher J, Bluher
+            M and Smith U.
+  TITLE     BMP4 and Gremlin 1 regulate hepatic cell senescence during clinical
+            progression of NAFLD/NASH
+  JOURNAL   Nat Metab 4 (8), 1007-1021 (2022)
+   PUBMED   35995996
+  REMARK    GeneRIF: BMP4 and Gremlin 1 regulate hepatic cell senescence during
+            clinical progression of NAFLD/NASH.
+REFERENCE   3  (bases 1 to 14636)
+  AUTHORS   Mitroi AF, Leopa N, Dumitru E, Brinzan C, Tocia C, Dumitru A and
+            Popescu RC.
+  TITLE     Association of TCF7L2, CASC8 and GREM1 Polymorphisms in Patients
+            with Colorectal Cancer and Type II Diabetes Mellitus
+  JOURNAL   Genes (Basel) 13 (8), 1297 (2022)
+   PUBMED   35893034
+  REMARK    GeneRIF: Association of TCF7L2, CASC8 and GREM1 Polymorphisms in
+            Patients with Colorectal Cancer and Type II Diabetes Mellitus.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 14636)
+  AUTHORS   Li R, Zhou H, Li M, Mai Q, Fu Z, Jiang Y, Li C, Gao Y, Fan Y, Wu K,
+            Costa CD, Sheng X, He Y and Li N.
+  TITLE     Gremlin-1 Promotes Colorectal Cancer Cell Metastasis by Activating
+            ATF6 and Inhibiting ATF4 Pathways
+  JOURNAL   Cells 11 (14), 2136 (2022)
+   PUBMED   35883579
+  REMARK    GeneRIF: Gremlin-1 Promotes Colorectal Cancer Cell Metastasis by
+            Activating ATF6 and Inhibiting ATF4 Pathways.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 14636)
+  AUTHORS   Lan L, Evan T, Li H, Hussain A, Ruiz EJ, Zaw Thin M, Ferreira RMM,
+            Ps H, Riising EM, Zen Y, Almagro J, Ng KW, Soro-Barrio P, Nelson J,
+            Koifman G, Carvalho J, Nye EL, He Y, Zhang C, Sadanandam A and
+            Behrens A.
+  TITLE     GREM1 is required to maintain cellular heterogeneity in pancreatic
+            cancer
+  JOURNAL   Nature 607 (7917), 163-168 (2022)
+   PUBMED   35768509
+  REMARK    GeneRIF: GREM1 is required to maintain cellular heterogeneity in
+            pancreatic cancer.
+REFERENCE   6  (bases 1 to 14636)
+  AUTHORS   Park WS, Park JY, Oh RR, Yoo NJ, Lee SH, Shin MS, Lee HK, Han S,
+            Yoon SK, Kim SY, Choi C, Kim PJ, Oh ST and Lee JY.
+  TITLE     A distinct tumor suppressor gene locus on chromosome 15q21.1 in
+            sporadic form of colorectal cancer
+  JOURNAL   Cancer Res 60 (1), 70-73 (2000)
+   PUBMED   10646855
+REFERENCE   7  (bases 1 to 14636)
+  AUTHORS   Merino R, Rodriguez-Leon J, Macias D, Ganan Y, Economides AN and
+            Hurle JM.
+  TITLE     The BMP antagonist Gremlin regulates outgrowth, chondrogenesis and
+            programmed cell death in the developing limb
+  JOURNAL   Development 126 (23), 5515-5522 (1999)
+   PUBMED   10556075
+REFERENCE   8  (bases 1 to 14636)
+  AUTHORS   Tomlinson I, Rahman N, Frayling I, Mangion J, Barfoot R, Hamoudi R,
+            Seal S, Northover J, Thomas HJ, Neale K, Hodgson S, Talbot I,
+            Houlston R and Stratton MR.
+  TITLE     Inherited susceptibility to colorectal adenomas and carcinomas:
+            evidence for a new predisposition gene on 15q14-q22
+  JOURNAL   Gastroenterology 116 (4), 789-795 (1999)
+   PUBMED   10092300
+REFERENCE   9  (bases 1 to 14636)
+  AUTHORS   Murphy M, Godson C, Cannon S, Kato S, Mackenzie HS, Martin F and
+            Brady HR.
+  TITLE     Suppression subtractive hybridization identifies high glucose
+            levels as a stimulus for expression of connective tissue growth
+            factor and other genes in human mesangial cells
+  JOURNAL   J Biol Chem 274 (9), 5830-5834 (1999)
+   PUBMED   10026205
+REFERENCE   10 (bases 1 to 14636)
+  AUTHORS   Hsu DR, Economides AN, Wang X, Eimon PM and Harland RM.
+  TITLE     The Xenopus dorsalizing factor Gremlin identifies a novel family of
+            secreted proteins that antagonize BMP activities
+  JOURNAL   Mol Cell 1 (5), 673-683 (1998)
+   PUBMED   9660951
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC090877.4.
+            
+            Summary: This gene encodes a member of the BMP (bone morphogenic
+            protein) antagonist family. Like BMPs, BMP antagonists contain
+            cystine knots and typically form homo- and heterodimers. The CAN
+            (cerberus and dan) subfamily of BMP antagonists, to which this gene
+            belongs, is characterized by a C-terminal cystine knot with an
+            eight-membered ring. The antagonistic effect of the secreted
+            glycosylated protein encoded by this gene is likely due to its
+            direct binding to BMP proteins. As an antagonist of BMP, this gene
+            may play a role in regulating organogenesis, body patterning, and
+            tissue differentiation. In mouse, this protein has been shown to
+            relay the sonic hedgehog (SHH) signal from the polarizing region to
+            the apical ectodermal ridge during limb bud outgrowth.
+            Alternatively spliced transcript variants encoding different
+            isoforms have been found for this gene. [provided by RefSeq, Jul
+            2010].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803613.236918.1,
+                                           SRR14372080.4481361.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2142348
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: downstream AUG is associated
+                                                with N-terminal localization
+                                                signal
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-219               AC090877.4         52994-53212
+            220-14636           AC090877.4         65200-79616
+FEATURES             Location/Qualifiers
+     source          1..14636
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="15"
+                     /map="15q13.3"
+     gene            1..14636
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="gremlin 1, DAN family BMP antagonist"
+                     /db_xref="GeneID:26585"
+                     /db_xref="HGNC:HGNC:2001"
+                     /db_xref="MIM:603054"
+     exon            1..219
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    98..100
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="upstream in-frame stop codon"
+     misc_feature    110..112
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MCLGRRAGSGGVLGRPLESAGWSIRRIHDVCICRSPS"
+     exon            220..14636
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             221..775
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 4; cysteine knot superfamily 1, BMP antagonist 1;
+                     increased in high glucose-2; gremlin 1-like protein; DAN
+                     domain family member 2; colorectal adenoma and carcinoma
+                     1; cell proliferation-inducing gene 2 protein;
+                     down-regulated in Mos-transformed cells protein; gremlin
+                     1, cysteine knot superfamily, homolog; hereditary mixed
+                     polyposis syndrome"
+                     /codon_start=1
+                     /product="gremlin-1 isoform 1 precursor"
+                     /protein_id="NP_001355648.1"
+                     /db_xref="CCDS:CCDS10029.1"
+                     /db_xref="GeneID:26585"
+                     /db_xref="HGNC:HGNC:2001"
+                     /db_xref="MIM:603054"
+                     /translation="MSRTAYTVGALLLLLGTLLPAAEGKKKGSQGAIPPPDKAQHNDS
+                     EQTQSPQQPGSRNRGRGQGRGTAMPGEEVLESSQEALHVTERKYLKRDWCKTQPLKQT
+                     IHEEGCNSRTIINRFCYGQCNSFYIPRHIRKEEGSFQSCSFCKPKKFTTMMVTLNCPE
+                     LQPPTKKKRVTRVKQCRCISIDLD"
+     sig_peptide     221..292
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    290..451
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="propagated from UniProtKB/Swiss-Prot (O60565.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     mat_peptide     293..772
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /product="Gremlin-1. /id=PRO_0000006714"
+                     /note="propagated from UniProtKB/Swiss-Prot (O60565.1)"
+     misc_feature    344..346
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O60565.1); glycosylation site"
+     regulatory      4174..4179
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="hexamer: AATAAA"
+     polyA_site      4195
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="major polyA site"
+     regulatory      5479..5484
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="hexamer: AAGAAA"
+     polyA_site      5502
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+     regulatory      14616..14621
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+                     /note="hexamer: AATAAA"
+     polyA_site      14636
+                     /gene="GREM1"
+                     /gene_synonym="C15DUPq; CKTSF1B1; CRAC1; CRCS4; DAND2;
+                     DRM; DUP15q; GREMLIN; HMPS; HMPS1; IHG-2; MPSH; PIG2"
+ORIGIN      
+        1 agacgcgccc gcttagcgag ggcgcgaagt ccaggccgcc agagcgcagg agcatccgga
+       61 cctgctagtc ggccgctgac tgcgcggcga gttgccttga gagggtccca tgtgcttggg
+      121 gcgccgcgct gggtctgggg gcgtcttggg gcgcccattg gagtccgcgg gttggagcat
+      181 ccggagaatc catgatgtgt gcatttgccg atccccgagt atgagccgca cagcctacac
+      241 ggtgggagcc ctgcttctcc tcttggggac cctgctgccg gctgctgaag ggaaaaagaa
+      301 agggtcccaa ggtgccatcc ccccgccaga caaggcccag cacaatgact cagagcagac
+      361 tcagtcgccc cagcagcctg gctccaggaa ccgggggcgg ggccaagggc ggggcactgc
+      421 catgcccggg gaggaggtgc tggagtccag ccaagaggcc ctgcatgtga cggagcgcaa
+      481 atacctgaag cgagactggt gcaaaaccca gccgcttaag cagaccatcc acgaggaagg
+      541 ctgcaacagt cgcaccatca tcaaccgctt ctgttacggc cagtgcaact ctttctacat
+      601 ccccaggcac atccggaagg aggaaggttc ctttcagtcc tgctccttct gcaagcccaa
+      661 gaaattcact accatgatgg tcacactcaa ctgccctgaa ctacagccac ctaccaagaa
+      721 gaagagagtc acacgtgtga agcagtgtcg ttgcatatcc atcgatttgg attaagccaa
+      781 atccaggtgc acccagcatg tcctaggaat gcagccccag gaagtcccag acctaaaaca
+      841 accagattct tacttggctt aaacctagag gccagaagaa cccccagctg cctcctggca
+      901 ggagcctgct tgtgcgtagt tcgtgtgcat gagtgtggat gggtgcctgt gggtgttttt
+      961 agacaccaga gaaaacacag tctctgctag agagcactcc ctattttgta aacatatctg
+     1021 ctttaatggg gatgtaccag aaacccacct caccccggct cacatctaaa ggggcggggc
+     1081 cgtggtctgg ttctgacttt gtgtttttgt gccctcctgg ggaccagaat ctcctttcgg
+     1141 aatgaatgtt catggaagag gctcctctga gggcaagaga cctgttttag tgctgcattc
+     1201 gacatggaaa agtcctttta acctgtgctt gcatcctcct ttcctcctcc tcctcacaat
+     1261 ccatctcttc ttaagttgat agtgactatg tcagtctaat ctcttgtttg ccaaggttcc
+     1321 taaattaatt cacttaacca tgatgcaaat gtttttcatt ttgtgaagac cctccagact
+     1381 ctgggagagg ctggtgtggg caaggacaag caggatagtg gagtgagaaa gggagggtgg
+     1441 agggtgaggc caaatcaggt ccagcaaaag tcagtaggga cattgcagaa gcttgaaagg
+     1501 ccaataccag aacacaggct gatgcttctg agaaagtctt ttcctagtat ttaacagaac
+     1561 ccaagtgaac agaggagaaa tgagattgcc agaaagtgat taactttggc cgttgcaatc
+     1621 tgctcaaacc taacaccaaa ctgaaaacat aaatactgac cactcctatg ttcggaccca
+     1681 agcaagttag ctaaaccaaa ccaactcctc tgctttgtcc ctcaggtgga aaagagaggt
+     1741 agtttagaac tctctgcata ggggtgggaa ttaatcaaaa acctcagagg ctgaaattcc
+     1801 taataccttt cctttatcgt ggttatagtc agctcatttc cattccacta tttcccataa
+     1861 tgcttctgag agccactaac ttgattgata aagatcctgc ctctgctgag tgtacctgac
+     1921 agtagtctaa gatgagagag tttagggact actctgtttt agcaagagat attttggggg
+     1981 tctttttgtt ttaactattg tcaggagatt gggctaaaga gaagacgacg agagtaagga
+     2041 aataaaggga attgcctctg gctagagagt agttaggtgt taatacctgg tagagatgta
+     2101 agggatatga cctccctttc tttatgtgct cactgaggat ctgaggggac cctgttagga
+     2161 gagcatagca tcatgatgta ttagctgttc atctgctact ggttggatgg acataactat
+     2221 tgtaactatt cagtatttac tggtaggcac tgtcctctga ttaaacttgg cctactggca
+     2281 atggctactt aggattgatc taagggccaa agtgcagggt gggtgaactt tattgtactt
+     2341 tggatttggt taacctgttt tcttcaagcc tgaggtttta tatacaaact ccctgaatac
+     2401 tctttttgcc ttgtatcttc tcagcctcct agccaagtcc tatgtaatat ggaaaacaaa
+     2461 cactgcagac ttgagattca gttgccgatc aaggctctgg cattcagaga acccttgcaa
+     2521 ctcgagaagc tgtttttatt tcgtttttgt tttgatccag tgctctccca tctaacaact
+     2581 aaacaggagc catttcaagg cgggagatat tttaaacacc caaaatgttg ggtctgattt
+     2641 tcaaactttt aaactcacta ctgatgattc tcacgctagg cgaatttgtc caaacacata
+     2701 gtgtgtgtgt tttgtataca ctgtatgacc ccaccccaaa tctttgtatt gtccacattc
+     2761 tccaacaata aagcacagag tggatttaat taagcacaca aatgctaagg cagaattttg
+     2821 agggtgggag agaagaaaag ggaaagaagc tgaaaatgta aaaccacacc agggaggaaa
+     2881 aatgacattc agaaccagca aacactgaat ttctcttgtt gttttaactc tgccacaaga
+     2941 atgcaatttc gttaacggag atgacttaag ttggcagcag taatcttctt ttaggagctt
+     3001 gtaccacagt cttgcacata agtgcagatt tggctcaagt aaagagaatt tcctcaacac
+     3061 taacttcact gggataatca gcagcgtaac taccctaaaa gcatatcact agccaaagag
+     3121 ggaaatatct gttcttctta ctgtgcctat attaagacta gtacaaatgt ggtgtgtctt
+     3181 ccaactttca ttgaaaatgc catatctata ccatatttta ttcgagtcac tgatgatgta
+     3241 atgatatatt ttttcattat tatagtagaa tatttttatg gcaagatatt tgtggtcttg
+     3301 atcataccta ttaaaataat gccaaacacc aaatatgaat tttatgatgt acactttgtg
+     3361 cttggcatta aaagaaaaaa acacacatcc tggaagtctg taagttgttt tttgttactg
+     3421 taggtcttca aagttaagag tgtaagtgaa aaatctggag gagaggataa tttccactgt
+     3481 gtggaatgtg aatagttaaa tgaaaagtta tggttattta atgtaattat tacttcaaat
+     3541 cctttggtca ctgtgatttc aagcatgttt tctttttctc ctttatatga ctttctctga
+     3601 gttgggcaaa gaagaagctg acacaccgta tgttgttaga gtcttttatc tggtcagggg
+     3661 aaacaaaatc ttgacccagc tgaacatgtc ttcctgagtc agtgcctgaa tctttatttt
+     3721 ttaaattgaa tgttccttaa aggttaacat ttctaaagca atattaagaa agactttaaa
+     3781 tgttattttg gaagacttac gatgcatgta tacaaacgaa tagcagataa tgatgactag
+     3841 ttcacacata aagtcctttt aaggagaaaa tctaaaatga aaagtggata aacagaacat
+     3901 ttataagtga tcagttaatg cctaagagtg aaagtagttc tattgacatt cctcaagata
+     3961 tttaatatca actgcattat gtattatgtc tgcttaaatc atttaaaaac ggcaaagaat
+     4021 tatatagact atgaggtacc ttgctgtgta ggaggatgaa aggggagttg atagtctcat
+     4081 aaaactaatt tggcttcaag tttcatgaat ctgtaactag aatttaattt tcaccccaat
+     4141 aatgttctat atagcctttg ctaaagagca actaataaat taaacctatt ctttctgtgt
+     4201 gtgtgagcgt gcgtttgtgt ttggtagtgt tcctagggca gaggtggagc agggatgcac
+     4261 ttatcatggg aagggaggta gaaaagagaa ttggatagcc tgtgatcttt ggtggaattt
+     4321 attccttttg cctaggcctt tcagaccctg cttgatttcc gtaggacact tcaggttgtg
+     4381 gcaagggaga gctggtctgc aatcggaagt accagcctct tccctagagc acaactagaa
+     4441 agaagaacta tagagtgtta taagggaggc cctgagatgg aaggaccatc acacagaaat
+     4501 gataatatct tcatttcagg gtgttccagg ggaaaagcag gagaaagatt tggggctcag
+     4561 tagaaggaaa agcttcctag tggtaagagt gattggcaat accatgaggt acctttaaaa
+     4621 gatagtgaac tcctgtcctt ggaaatatta aaccacaggc tagatatcat ttaataggga
+     4681 tgtgaagtag agtaagtcac tgcccttggt gtgcaattgt gaacttgtca atttctgagg
+     4741 tccctttcta cttagatata taatacaaga tttctattag gtatgggtgc tctgatgata
+     4801 atgaaaatcc cagcagctat gtatgggatg gttacaccag acactgtgct aaggattttc
+     4861 tttgaattgt ttctcactca atcttcacgg tagctcagtg aggtaggtac cattatcact
+     4921 gctagaaagc agtgaactta tatggtctta ctgtggcact gggtccttaa acattatgca
+     4981 aaactgtgag caacttttat cggtttgttc ttttaagaac ataacacagc actctaaaaa
+     5041 tagatctaac tagattgttc acatctagcg attaaggcca ccctgagatt atagctgcat
+     5101 catcaggaac ccaagatctg aagcattcag tcaaagcctc ttggccacct ctctttttgt
+     5161 catggccttc ttggacttgg agggggagaa tggaagcaag taccaaggag aaagtgttct
+     5221 cagaaaagcc acacccatta gaaaaataca aggcctgaaa ggtgtgagtg ggacttgaca
+     5281 cggaagagca tttcaagctt aagaaaaaaa aaaaaaagaa gaatgtggga ggatgtcagc
+     5341 aacaatgctt gagattccct ggtcccccaa agagtctctc ctccataaaa ctaatgagaa
+     5401 tgtgacaaaa atagattcaa cttcttatag ctctggaaat taactgaaga tgtatagcaa
+     5461 tttgcagagc atttattcaa gaaaaagact aaatctctgt gagcactgtg atattgtaac
+     5521 ttgcactact ctcatctccc cctctccagc tccacaatag ctttgaaacc aacagcctgc
+     5581 aattaccatg aaaatcagca gtctggcagc cactgaaggt gacagaatgg agttggagtt
+     5641 ctttcaaagt cccattccta gacaattgtc actatttgac ctgtttggca ggccctggaa
+     5701 gctccacttg caaggctata tttgacctga ctggaagctt cccagggtaa aaaactttgt
+     5761 caaaacaact agaggcaatt gattctcttt gtggctgcct ggggtaatgt ataacagttg
+     5821 gggaaagcaa ttggctaaat aaaaagccta aaaggagaag ctggaaaaag agattttcat
+     5881 agggactttg aaaagctcca aagtgttatt ggcaatctag actgccaaat gcataaatag
+     5941 gactccatcc atgcccagga ctgtgcagat gctcaggaaa aacccaagaa agccttaagc
+     6001 tctcacttca agctgatctt gaggctctgc acaagccata agtaaaggga atgcagagtt
+     6061 gtcaattgca tggcggagtg ttgagtgtgc ctcagcattc acacagagct ccttggcaga
+     6121 gactggttga attattgatt ccaagtgttt gaggaaatcc gtgtacaact attagatgac
+     6181 tactaaccaa gcagagactt cagtgtccac acacaacaaa aaatacagac tttacagaat
+     6241 tagttcagaa aagtcattaa acaaagaaac aacaacaaac cctggggaaa tgacagtacg
+     6301 atcaaaccat gcatggccct gcctgcatgt gggaatcctc atccaagtca tactttctaa
+     6361 acatcataaa aagcccaaac cagtctcctt tcctggctct ctcaagtcat tttcagacca
+     6421 ggttaggaga cgtgagctgc tctccacaaa aagcctcatg tgagtaataa atgtttcata
+     6481 ctctcttggg gtgtgtgtaa catcatcagt ctcagcatct aaaccaaatt ttggtgacat
+     6541 ttcatcttgt ttatgcagat gtccaccaca cctataaata aacaaactac tgaaactgat
+     6601 tcaagaaaaa ataaaaatct gaatagagct atcacaagta aagagattaa ataagcaatc
+     6661 aaataacttc ccagaaagaa aagcccaatt taggatgtct taactgatta atgttagcaa
+     6721 atatttaaag aagaattggt acaaattctt cacaaactct tccagaaatg gaagaggagg
+     6781 aaacactttc caccttattt tctataacta gtattacctt gataccaaat tctgacaaat
+     6841 acatcaaaaa taaaaccata gaccaatatc tcttttaagt gtaaatgcaa aaaaattcaa
+     6901 caaaatgcta gataactggg tccaacaaca tatggaaagg attatatacc ttgaccaagt
+     6961 gggatttgcc ccaggaatgc aagattgatt taaccatcag tgtaatgcat catattaata
+     7021 gaataaagac agaaaccaca caatcatctc gatacacgca gaaaaatcat ttggcaaaat
+     7081 tcaacacccc tttgtaataa aatcactcaa cacactagga agagaaggga acttcttcaa
+     7141 cctcacacat ggcatctatg aaaaacccac agctggccgg gtatggtggc tcaagcctgt
+     7201 aatcccagca ctttgggagg ctgagccagg cggatcacct gaggtcagga gttcgagacc
+     7261 aacctgacca acatggagaa accctgtatc tactaaaaat acaaaaaatt agcccggcgt
+     7321 ggtggcaaat gcctgtaatc ccagctgctt gggaggctga ggcaggagaa tcggttgaac
+     7381 ccaggaggtg gaggttctgg tgagccgaga tcacgccatt gtactccagc ctgggcaaca
+     7441 agaacaaaac tctgtctcaa aaaaaaaaaa aaaaagaaaa gaaaaaccca cagctaacat
+     7501 catacttaaa ggtgaaagac tgaaagcttt cccccaagag gaactaacag gatatctgct
+     7561 gtcactattt ttattcaata ttatactgga ggttctacct agggtaatta ggcaaaaaaa
+     7621 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaagaaaaga aaaaagtcat
+     7681 ccagattgga aaagaaataa aatgatttca attttaagat gacataatat tgtatgtaga
+     7741 aatcctaagg aatttacaaa agaactatta gagctaatac atgatttcag caaggttgca
+     7801 ggatacaaga tcaacataca gatataaatt gtattctaca cacttgtaat gaaaaatctg
+     7861 aaaataaaat taagaaaata gcaccctttg aatagtatca aaaagaataa aatacataga
+     7921 aaaaatgtaa caggaagtgc aagactggta cattgaaaac aataaaacat tgttaaaaaa
+     7981 tttaaaatca tcaaaataga tggaaataaa acctgtgttc atggatgaaa aaaattaaca
+     8041 ttgctctaca gattcaatac aattcttatc aaaatcccag gtggcttaag aaattgacaa
+     8101 gttaatccta aaattcataa gaaattgaaa gggatccaca atagccaaaa taatcttaaa
+     8161 aaagatttta aaaagttgga gaactcacac ttcctggttt cataacatac accaggctgg
+     8221 gcatggtggt tcatgcccat aatcccagca ctttgggaag ttgaggcaga aggatcactt
+     8281 gagcacagga gtttgagacc agcctggacg atatagtgag accttgtctc tactaaaaat
+     8341 ttaaaaagga attagccagg tgtggtaaca tgcacctgtt gtcccagcta cttaggaggc
+     8401 tgaggcatga ggatcacttg agcccagaag attgtaccac tgcactccag cctacatgac
+     8461 agagtaagtc tctgtctcaa aaacaaaaca aacaacaaaa atactgaaag ctttccccat
+     8521 acaggaacta acaggatatc tgctgtcact atttttattc aatattgttc tggaggttct
+     8581 agctagggca attaggcaaa aaaaggaaaa agaagtcatc cagattagaa aagaaataaa
+     8641 ataatttcaa ttttcagatg acataatatt gtatgtagaa atcctaagga atttacaaaa
+     8701 gaactgctac cctgaaagaa ttgttgtaag gcaaataccc ctgtaattac cattagggga
+     8761 agaaattttt ccatgcttca cagaaactct ccttataccc cacctcaatt ttaatctttt
+     8821 tctgtaccac tacagttata attctcctaa agcttaaagc aattacctcc ttgtttatat
+     8881 ttatagtttc atcactgaag tgtgcattcc taaactcaac accttagtct ggttgcaaac
+     8941 agtttaaatg agaaaagata aggcctgaat taaggcagca gccctaaacc tttttctata
+     9001 atcctgatag tgattaccac ctaggggatt ataaatgttt gcttcttcct ctggcaccaa
+     9061 caagtttact gagcagaagt ttaaaataat tggataatgg ggcaggtgac atcagcaaga
+     9121 tgttgtatta gcaaatgctg gacccttctt caatccacaa acacatctat tctgcaaaaa
+     9181 ttcatggcta aattcctttg tgaggaatcc agaaactaaa aggctcctgc actcccagca
+     9241 aatgcaaaaa ccagactcac caaagctggt agagagattt gagataccac cttgtccgaa
+     9301 tccctaaccc cagcacagtg ccatgtagtc agcaagagac tccctagcac tcagtttctc
+     9361 ccaggtgaga ggagttggtt cacatatcca agacctccaa cttttctgag gagattccca
+     9421 gaggactggc ttctatcttg tcagtcttgg agctctgaca gaattggtac tatctagcta
+     9481 cctggggaag gacagagaca gaggtttaga ccagtagatg acatggcacc ctgccctcta
+     9541 ctgcctcacc tcctggctca gcacagacag gacaaaaatc atggctacct acatttccct
+     9601 ggagaaggaa tgatttgtta aaggccccca aatcactggg cagacttatt ggtgggggtc
+     9661 ttctcctctg aggcccagct gtgaggactg ggacaggtga ctgctttgtc taatgtgcag
+     9721 acaccaacac aaagagtcaa ggaaaatgaa taatcatacg aagatgttcc aaaccaaaga
+     9781 acaagataaa tctctggaaa ctgagctaat gaaataaact tatgtgattt acctgacaga
+     9841 gaattcagaa tagctctcat aaagattctc accagagtca agagaacaat gcatgaaaaa
+     9901 agttaagaat tttgacaaag agatagagta tatttaaaag taccaaaaag aaatggaact
+     9961 gaagaacaca acaactgaac tgaaaaaatt tatgacagga catcaacagg agacaagatt
+    10021 aatcagaaga aagaatcaat gaacttgaag acaggtcatt ggaaataatt cagttagagg
+    10081 agaaattaaa atgaaaaaga gtgaaaaaaa gcccaagggt cttatgggca acatcaagct
+    10141 gaacaatata ctcattattg gcatcacaga ataaaagaga gaaaagaact gagaacgtat
+    10201 tcaaagaaat aatggctgaa cacttcccaa atatgaggaa gaaaatgaac attctgatcc
+    10261 aagaagccca aaggtcataa aaaagtgatc ccaaagccta caggcatatt ataagttgtc
+    10321 atcctagaga aagaaaaata tctttctccc agcctccata ttcaaatctt aaggaaaatt
+    10381 cttatggact tagcttgagt ttcaagttca tttctaaaat caatcatggt ggccaaacgg
+    10441 aatgagcatt ctgatttgcc agtgtggtct catgttaccc ctgtgcctag aaaggaaaca
+    10501 ggagatgaaa agcatggtga taagaagact ggatggcacc acatgggata gggggaaagt
+    10561 agttgaaaaa aaatagttgt aaggaaaaga gatacaagga gtcaaaaata acaaatatct
+    10621 acttaaaagc cttttccaca tttaatgttt tttgttcact gtggtgtagt aataaatgtc
+    10681 tatacttaag gggtgaggat tgatatattt aaagtgaatg gtctggaagg caaggaagct
+    10741 cattccaaca gattcatgct acattgttta gtgacaaata aggggaacag aacagagaaa
+    10801 gtgatttcag ctataaatat aggagataat aaaatccttt agtaaacagt atctaagcct
+    10861 tgtttttatg atattgggga acagtaacag atcaaagtac tgtagtcttc agtatgcaga
+    10921 cctttcactt tcttagttta ttccagggtc tttttttttt ttgctgctat tacaaatagc
+    10981 attgttttcc taatttttgt ttaagatagt tcatcgttgg tatagaaatg ccattgattt
+    11041 ttgtatgttg attttgtatc ctccaacttt actgaattta ttagttctaa cagttttttg
+    11101 atggagtctt tagggttttc tatgtataag attatgtcat ctgcaaacag caacaatttt
+    11161 accctttgtt ttcaacgtga gcgtctttta tttatttttc ttgcctaatt gctttagcta
+    11221 ggacttccag cactaaattg aatagaagtg atgagagtgg gcatgtatgc cttgtttctg
+    11281 gtcttaaaga aaaacatttc agttttccat tattcggtat aatgttagtt atgggttttt
+    11341 aaaaatatat atgaccttta ttaggttgag gtacttttcc tctattctta gtttattgaa
+    11401 tgtttttctc atgaaagtgt gttaaatttt gtcaaaacct tttttacatc catcaaatga
+    11461 ttatgtaatt tttatccttt attctgttaa tggattatca cattaactaa ttttcatatc
+    11521 ttgaagcata cttgcatcct aggaataaat cccactttgt catagtcttt gatcctttta
+    11581 atataatgtt aaatttggtt tgccagtatt ttgttgagga tttttgcatc tatatattca
+    11641 tcaaggatat tgggctgtaa ttttcttttc ttgtggtgtc tttgtccggc tttagtataa
+    11701 aggtaattct ggcttcataa aataagttag aaagtgttct ctcttctttg atttttttgg
+    11761 aagagtttga gaataattgg cattagtttt gttaaatgtt tggttgaatt cactagtgaa
+    11821 attatttggt cctgggattt tctttactgg gagttttttg attacttgtt caatctttac
+    11881 gctagtcata ggtctgtcca gtctttgtat ttcttcatga tttagtcatc atgtattcat
+    11941 gggttgtaag acttaatatt cttaaaatgc ccatattacc caaagtgatc tatagattca
+    12001 tgcaatcccc atcaaaaatc ccagtggcat ttttatttac agaaatagaa taattctaaa
+    12061 attcatctga agccacaaaa gacaatgaat aaacaaatca atcttgaaaa agaagaacaa
+    12121 agctggaggc attatacttc ctgatttcaa aatatcctgc aaaggtacag taatcaaaac
+    12181 agtatgttac cagcataaag acaaacacac agaccaatag aacagaatag agagctcagc
+    12241 aacaaatccg tgaatataca gtcaactgac atttggcaat ggtgccaagc atactcagtg
+    12301 ggagaaatga taatctcttc aacaaatggt gttgggaaaa ctgaatatcc acatgcaaaa
+    12361 gaataaaatt ggaccctatc ttataccaaa aatcaactca aaatggatta tttaaatgta
+    12421 agacttgaaa cagtaaaact cctagaagta aacagaagag aaagtttcat gacattgccc
+    12481 ttggcaatga tttcatgtac ataacaacaa aagcacaggt aataaaaaca aaaatagaca
+    12541 aatgggacta cctcaaatta aaatgtttct gcacagcaaa cgaccaactg aatgaaaagg
+    12601 caatctatgg aacagaagac acggggtgac atgagaccac tttggcaaat cagaatgctc
+    12661 attccatttg gccaccatga ttggttttag aaatggactt gaagctcaaa gaaagcccat
+    12721 aatatattcc ttaagatttg aatatagagg ctggaagaaa gatttttttc tttctctagg
+    12781 atgacaagtt atatataata agcctgtagg ccaatatctg ctggcagcca cctttcccag
+    12841 gtatatggat gaaactatct gaaggatgaa gcctccattc acagaaaatc agagctgtaa
+    12901 agggaagagg atatcctgat gaattttttt cttggattga gccatgtctg aagtcaagcc
+    12961 aacttttgaa gtatcctata gtacttatat attgcttggt aacaaattat gccaaaattt
+    13021 agtagcttaa aacaacaaac atctattatc tcatgcattt ctgatataga tataggagtg
+    13081 actaatctgg gtggttctgg gtcagaatct ctggtgagtg tgtaggcaag gtgtcagtag
+    13141 ggggctgcaa ttatctaaag gcttgcctgg ggctggagac gcactttcaa tgtggtgtac
+    13201 tcacgtggct gttggttgga ggccaaatgt gctaggcaaa gcctcatgca catttctctg
+    13261 taaggaaaca aagctggctt acttgggggc aggatttttt tttttcccag ttgttcttca
+    13321 aaatgaagtt tcccgctcca agtcccagcc agatatgtga aaaacaatcc ttgcagaaca
+    13381 accctattag cagttctgca aggattttta ggaaccgtat tagcaagttc ctcagttcct
+    13441 caccatgtga acctctcttc acgacttagt aactggcttc ctctagagtg actaatccaa
+    13501 gagacagcaa ggattgacag ccatgacagc acagtgcctt tcatgactta ctctccaaag
+    13561 ttacaaacct ttacttttgc tttatcttat ttgttagagc aagtcactaa atttgcccac
+    13621 atctaagatg agggtatttg ggcttcacct cttgaatgga gaagcaccca aaaatctgtg
+    13681 gccttttttt ttaattacac tctcagttac atgaatcaat aaattccatt tttggcttag
+    13741 cttctattgg gtttctatca cttgcaacca aagtgcccta accagtatct acatctgagt
+    13801 cattaagaaa gtttcagaca gggctgggcg cggtggctca cacctgttaa tcccagactt
+    13861 tgggaggccg aggcaggcgg atcacgtggt caggagatcg agaccatcct ggctaacacg
+    13921 gtgaaacctt atctctacta aaaatacaaa aaattagccg ggtgtggtgg caggtgcctg
+    13981 aagtcccagc tactcgggag gctgaggcag gggaatggcg tgaacccggg agacggagct
+    14041 tgcagtgagc cgagatcacg ccactgcgct ccagcctggg cgacagagtg agactcagct
+    14101 tcaaaaaaaa aaaaaaaaaa gaaagtttca gatattattg tttattgctt ttaatctagt
+    14161 gaattcataa atcgtcactt aactcaagca aaacaatgtt actctctttg tacattgtac
+    14221 agatgcagga taacaatgca gtgttatcct gcatctgtac aatcaagcac ccaaactggt
+    14281 tctgtagagg caggacctta gcatatagca gagataactt atcttccagc agatccggag
+    14341 ctccattttg tagacagaaa tgaatgctct gtgccacaga aggagctgtt gcactattca
+    14401 ttcccgtttc ctcccattca ctctccacat ctccaatcct ggcattgtct gctttgttac
+    14461 ttgttaaaaa cttgatttcg tagattgctt taaaataaga acaaaatgta ctttgacaca
+    14521 catcattttg tttggttctc attaattttg agagaaaggc aagatagata tttaaatgac
+    14581 ccctatttta gtggtaaaca agctgaaatt agataaataa aatgatttgc ctaatg
+//
+

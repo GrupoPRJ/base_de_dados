@@ -1,0 +1,369 @@
+LOCUS       NM_001172813            5537 bp    mRNA    linear   PRI 27-DEC-2022
+DEFINITION  Homo sapiens solute carrier family 30 member 8 (SLC30A8),
+            transcript variant 4, mRNA.
+ACCESSION   NM_001172813
+VERSION     NM_001172813.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5537)
+  AUTHORS   Hu F, Zhang Y, Qin P, Zhao Y, Liu D, Zhou Q, Tian G, Li Q, Guo C,
+            Wu X, Qie R, Huang S, Han M, Li Y, Hu D and Zhang M.
+  TITLE     Integrated analysis of probability of type 2 diabetes mellitus with
+            polymorphisms and methylation of SLC30A8 gene: a nested
+            case-control study
+  JOURNAL   J Hum Genet 67 (11), 651-660 (2022)
+   PUBMED   35996015
+  REMARK    GeneRIF: Integrated analysis of probability of type 2 diabetes
+            mellitus with polymorphisms and methylation of SLC30A8 gene: a
+            nested case-control study.
+REFERENCE   2  (bases 1 to 5537)
+  AUTHORS   Chen G, Shriner D, Zhang J, Zhou J, Adikaram P, Doumatey AP,
+            Bentley AR, Adeyemo A and Rotimi CN.
+  TITLE     Additive genetic effect of GCKR, G6PC2, and SLC30A8 variants on
+            fasting glucose levels and risk of type 2 diabetes
+  JOURNAL   PLoS One 17 (6), e0269378 (2022)
+   PUBMED   35657990
+  REMARK    GeneRIF: Additive genetic effect of GCKR, G6PC2, and SLC30A8
+            variants on fasting glucose levels and risk of type 2 diabetes.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 5537)
+  AUTHORS   Fakhfakh R, Kmiha S, Tahri S, Feki S, Zouidi F, Abida O, Hachicha
+            M, Kammoun T and Masmoudi H.
+  TITLE     Autoantibodies to Zinc Transporter 8 and SLC30A8 Genotype in Type 1
+            Diabetes Childhood: A Pioneering Study in North Africa
+  JOURNAL   J Diabetes Res 2022, 2539871 (2022)
+   PUBMED   35656360
+  REMARK    GeneRIF: Autoantibodies to Zinc Transporter 8 and SLC30A8 Genotype
+            in Type 1 Diabetes Childhood: A Pioneering Study in North Africa.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5537)
+  AUTHORS   Xu K, Lv H, Zhang J, Chen H, He Y, Shen M, Qian Y, Jiang H, Dai H,
+            Zheng S, Yang T and Fu Q.
+  TITLE     The common rs13266634 C > T variant in SLC30A8 contributes to the
+            heterogeneity of phenotype and clinical features of both type 1 and
+            type 2 diabetic subtypes
+  JOURNAL   Acta Diabetol 59 (4), 545-552 (2022)
+   PUBMED   35034185
+  REMARK    GeneRIF: The common rs13266634 C > T variant in SLC30A8 contributes
+            to the heterogeneity of phenotype and clinical features of both
+            type 1 and type 2 diabetic subtypes.
+REFERENCE   5  (bases 1 to 5537)
+  AUTHORS   Sadrirad,S., Samadi,N., Nikanfar,M., Moayed,Z.B., Laghousi,D.,
+            Hasanzade,Z., Maroufi,N.F. and Nourazarian,A.
+  TITLE     Evaluation of the Diagnostic and Predictive Value of Glutamic Acid
+            Decarboxylase, Zinc Transporter 8 Serum Levels in Alzheimer's
+            Disease
+  JOURNAL   Clin Lab 68 (1) (2022)
+   PUBMED   35023669
+  REMARK    GeneRIF: Evaluation of the Diagnostic and Predictive Value of
+            Glutamic Acid Decarboxylase, Zinc Transporter 8 Serum Levels in
+            Alzheimer's Disease.
+REFERENCE   6  (bases 1 to 5537)
+  AUTHORS   Sladek R, Rocheleau G, Rung J, Dina C, Shen L, Serre D, Boutin P,
+            Vincent D, Belisle A, Hadjadj S, Balkau B, Heude B, Charpentier G,
+            Hudson TJ, Montpetit A, Pshezhetsky AV, Prentki M, Posner BI,
+            Balding DJ, Meyre D, Polychronakos C and Froguel P.
+  TITLE     A genome-wide association study identifies novel risk loci for type
+            2 diabetes
+  JOURNAL   Nature 445 (7130), 881-885 (2007)
+   PUBMED   17293876
+  REMARK    GeneRIF: Observational study and genome-wide association study of
+            gene-disease association. (HuGE Navigator)
+            GeneRIF: A non-synonymous polymorphism in SLC30A8 (rs13266634,
+            R325W) is associated with increased risk of developing type 2
+            diabetes in causcasians.
+REFERENCE   7  (bases 1 to 5537)
+  AUTHORS   Chimienti F, Devergnas S, Pattou F, Schuit F, Garcia-Cuenca R,
+            Vandewalle B, Kerr-Conte J, Van Lommel L, Grunwald D, Favier A and
+            Seve M.
+  TITLE     In vivo expression and functional characterization of the zinc
+            transporter ZnT8 in glucose-induced insulin secretion
+  JOURNAL   J Cell Sci 119 (Pt 20), 4199-4206 (2006)
+   PUBMED   16984975
+REFERENCE   8  (bases 1 to 5537)
+  AUTHORS   Chimienti F, Favier A and Seve M.
+  TITLE     ZnT-8, a pancreatic beta-cell-specific zinc transporter
+  JOURNAL   Biometals 18 (4), 313-317 (2005)
+   PUBMED   16158222
+  REMARK    GeneRIF: ZnT-8 is a pancreatic beta-cell-specific zinc transporter
+            [review]
+            Review article
+REFERENCE   9  (bases 1 to 5537)
+  AUTHORS   Chimienti F, Devergnas S, Favier A and Seve M.
+  TITLE     Identification and cloning of a beta-cell-specific zinc
+            transporter, ZnT-8, localized into insulin secretory granules
+  JOURNAL   Diabetes 53 (9), 2330-2337 (2004)
+   PUBMED   15331542
+  REMARK    GeneRIF: ZnT-8 may be a major component for providing zinc to
+            insulin maturation and/or storage processes in insulin-secreting
+            pancreatic beta-cells.
+REFERENCE   10 (bases 1 to 5537)
+  AUTHORS   Seve M, Chimienti F, Devergnas S and Favier A.
+  TITLE     In silico identification and expression of SLC30 family genes: an
+            expressed sequence tag data mining strategy for the
+            characterization of zinc transporters' tissue expression
+  JOURNAL   BMC Genomics 5 (1), 32 (2004)
+   PUBMED   15154973
+  REMARK    GeneRIF: identified the full-length sequences of SLC30A8, extending
+            the SLC30 family to ten members; used an expressed sequence tag
+            (EST) data mining strategy to determine the pattern of ZnT genes
+            expression in tissues
+            Publication Status: Online-Only
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK298294.1, AC027419.11 and
+            AC084114.8.
+            
+            On May 28, 2019 this sequence version replaced NM_001172813.1.
+            
+            Summary: The protein encoded by this gene is a zinc efflux
+            transporter involved in the accumulation of zinc in intracellular
+            vesicles. This gene is expressed at a high level only in the
+            pancreas, particularly in islets of Langerhans. The encoded protein
+            colocalizes with insulin in the secretory pathway granules of the
+            insulin-secreting INS-1 cells. Allelic variants of this gene exist
+            that confer susceptibility to diabetes mellitus,
+            noninsulin-dependent (NIDDM). Several transcript variants encoding
+            different isoforms have been found for this gene.[provided by
+            RefSeq, Mar 2010].
+            
+            Transcript Variant: This variant (4) differs in the 5' UTR and
+            coding sequence compared to variant 1. The resulting isoform (b) is
+            shorter at the N-terminus compared to isoform a. Variants 2, 3, 4,
+            and 5 all encode isoform b.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK298294.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-442               AK298294.1         28-469
+            443-443             AC027419.11        156313-156313
+            444-1658            AK298294.1         471-1685
+            1659-5537           AC084114.8         122240-126118       c
+FEATURES             Location/Qualifiers
+     source          1..5537
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8q24.11"
+     gene            1..5537
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="solute carrier family 30 member 8"
+                     /db_xref="GeneID:169026"
+                     /db_xref="HGNC:HGNC:20303"
+                     /db_xref="MIM:611145"
+     exon            1..145
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            146..268
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            269..435
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            436..465
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    449..451
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="upstream in-frame stop codon"
+     exon            466..665
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             542..1504
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="isoform b is encoded by transcript variant 4; zinc
+                     transporter ZnT-8; solute carrier family 30 (zinc
+                     transporter), member 8; proton-coupled zinc antiporter
+                     SLC30A8"
+                     /codon_start=1
+                     /product="proton-coupled zinc antiporter SLC30A8 isoform
+                     b"
+                     /protein_id="NP_001166284.1"
+                     /db_xref="CCDS:CCDS55272.1"
+                     /db_xref="GeneID:169026"
+                     /db_xref="HGNC:HGNC:20303"
+                     /db_xref="MIM:611145"
+                     /translation="MYHCHSGSKPTEKGANEYAYAKWKLCSASAICFIFMIAEVVGGH
+                     IAGSLAVVTDAAHLLIDLTSFLLSLFSLWLSSKPPSKRLTFGWHRAEILGALLSILCI
+                     WVVTGVLVYLACERLLYPDYQIQATVMIIVSSCAVAANIVLTVVLHQRCLGHNHKEVQ
+                     ANASVRAAFVHALGDLFQSISVLISALIIYFKPEYKIADPICTFIFSILVLASTITIL
+                     KDFSILLMEGVPKSLNYSGVKELILAVDGVLSVHSLHIWSLTMNQVILSAHVATAASR
+                     DSQVVRREIAKALSKSFTMHSLTIQMESPVDQDPDCLFCEDPCD"
+     exon            666..812
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            813..966
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            967..1117
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1118..1223
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1224..1358
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1359..5537
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2097..2102
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="hexamer: AATAAA"
+     polyA_site      2119
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="major polyA site"
+     regulatory      2323..2328
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="hexamer: AATAAA"
+     polyA_site      2342
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="major polyA site"
+     regulatory      2896..2901
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="hexamer: AATACA"
+     polyA_site      2916
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+     regulatory      5517..5522
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="hexamer: AATAAA"
+     polyA_site      5537
+                     /gene="SLC30A8"
+                     /gene_synonym="ZnT-8; ZNT8"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcctgtctaa ctttggaaat atcaccctca tgctgtcttc ccaggatgtc tctctcccta
+       61 agtaagagat gttacttcct ggagggaatg cagtgttggg aatctgaaga cccagctttg
+      121 agctgaattt gctttgtgat acctgagaca gcatttcccc atgttggcca ggctggtctt
+      181 gaactcctga cctcaagtga tccgcccgcc tcggcctccc aaagtgctgg gtttacaagc
+      241 gtgagccacc gcgccccggg ggagtcagaa agtgtataaa taattgcagt gctgctttgc
+      301 ttccaaaact gggcagtgag ttcaacaaca acgacaacaa cagccgcagc tcatcctggc
+      361 cgtcatggag tttcttgaaa gaacgtatct tgtgaatgat aaagctgcca agatgtatgc
+      421 tttcacacta gaaagaagga gctgcaaatg aacacttcat agcaatgtgg aactccaaca
+      481 gaaaccggtg aataaagatc agtgtcccag agagagacca gaggagctgg agtcaggagg
+      541 catgtaccac tgccacagtg gctccaagcc cacagaaaag ggggcgaatg agtacgccta
+      601 tgccaagtgg aaactctgtt ctgcttcagc aatatgcttc attttcatga ttgcagaggt
+      661 cgtgggtggg cacattgctg ggagtcttgc tgttgtcaca gatgctgccc acctcttaat
+      721 tgacctgacc agtttcctgc tcagtctctt ctccctgtgg ttgtcatcga agcctccctc
+      781 taagcggctg acatttggat ggcaccgagc agagatcctt ggtgccctgc tctccatcct
+      841 gtgcatctgg gtggtgactg gcgtgctagt gtacctggca tgtgagcgcc tgctgtatcc
+      901 tgattaccag atccaggcga ctgtgatgat catcgtttcc agctgcgcag tggcggccaa
+      961 cattgtacta actgtggttt tgcaccagag atgccttggc cacaatcaca aggaagtaca
+     1021 agccaatgcc agcgtcagag ctgcttttgt gcatgccctt ggagatctat ttcagagtat
+     1081 cagtgtgcta attagtgcac ttattatcta ctttaagcca gagtataaaa tagccgaccc
+     1141 aatctgcaca ttcatctttt ccatcctggt cttggccagc accatcacta tcttaaagga
+     1201 cttctccatc ttactcatgg aaggtgtgcc aaagagcctg aattacagtg gtgtgaaaga
+     1261 gcttatttta gcagtcgacg gggtgctgtc tgtgcacagc ctgcacatct ggtctctaac
+     1321 aatgaatcaa gtaattctct cagctcatgt tgctacagca gccagccggg acagccaagt
+     1381 ggttcggaga gaaattgcta aagcccttag caaaagcttt acgatgcact cactcaccat
+     1441 tcagatggaa tctccagttg accaggaccc cgactgcctt ttctgtgaag acccctgtga
+     1501 ctagctcagt cacaccgtca gtttcccaaa tttgacaggc caccttcaaa catgctgcta
+     1561 tgcagtttct gcatcataga aaataaggaa ccaaaggaag aaattcatgt catggtgcaa
+     1621 tgcacatttt atctatttat ttagttccat tcaccatgaa ggaagaggca ctgagatcca
+     1681 tcaatcaatt ggattatata ctgatcagta gctgtgttca attgcaggaa tgtgtatata
+     1741 gattattcct gagtggagcc gaagtaacag ctgtttgtaa ctatcggcaa taccaaattc
+     1801 atctcccttc caataatgca tcttgagaac acataggtaa atttgaactc aggaaagtct
+     1861 tactagaaat cagtggaagg gacaaatagt cacaaaattt taccaaaaca ttagaaacaa
+     1921 aaaataagga gagccaagtc aggaataaaa gtgactctgt atgctaacgc cacattagaa
+     1981 cttggttctc tcaccaagct gtaatgtgat ttttttttct actctgaatt ggaaatatgt
+     2041 atgaatatac agagaagtgc ttacaactaa tttttattta cttgtcacat tttggcaata
+     2101 aatccctctt atttctaaat tctaacttgt ttatttcaaa actttatata atcactgttc
+     2161 aaaaggaaat attttcacct accagagtgc ttaaacactg gcaccagcca aagaatgtgg
+     2221 ttgtagagac ccagaagtct tcaagaacag ccgacaaaaa cattcgagtt gaccccacca
+     2281 agttgttgcc acagataatt tagatattta cctgcaagaa ggaataaagc agatgcaacc
+     2341 aattcattca gtccacgagc atgatgtgag cactgctttg tgctagacat tgggcttagc
+     2401 attgaaacta taaagaggaa tcagacgcag caagtgcttc tgtgttctgg tagcaactca
+     2461 acactatctg tggagagtaa actgaagatg tgcaggccaa cattctggaa atcctatgtc
+     2521 aatgggtttg gtttggaacc tggacttctg catttttaaa agttacccag agatgcttct
+     2581 aaagatgagc catagtctag aagattgtca accacaggag ttcattgagt gggacagcta
+     2641 gacacataca ttggcagcta caatagtatc atgaattgca atgatgtagt ggggtataaa
+     2701 aggaaagcga tggatattgc cggatgggca tggccagtga tgtttcacgt cattgaggtg
+     2761 acagctctgc tggactttga attacatatg gaggctctcc aggaagacga agaagagaag
+     2821 gacattctag gcaaaaagaa gactaggcac aaggcacact tatgtttgtc tgttagcttt
+     2881 tagttgaaaa agcaaaatac atgatgcaaa gaaacctctc cacgctgtga tttttaaaac
+     2941 tacatacttt ttgcaacttt atggttatga gtattgtaga gaacaggaga taggtcttag
+     3001 atgattttta tgttgttgtc agactctagc aaggtactag aaacctagca ggcattaata
+     3061 attgttgagg caatgactct gaggctatat ctgggccttg tcattattta tcatttatat
+     3121 ttgtattttt ttctgaaatt tgagggccaa gaaaacattg actttgactg aggaggtcac
+     3181 atctgtgcca tctctgcaaa tcaatcagca ccactgaaat aactacttag cattctgctg
+     3241 agctttccct gctcagtaga gacaaatata ctcatccccc acctcagtga gcttgtttag
+     3301 gcaaccagga ttagagctgc tcaggttccc aacgtctcct gccacatcgg gttctcaaaa
+     3361 tggaaagaat ggtttatgcc aaatcacttt tcctgtctga aggaccactg aatggttttg
+     3421 tttttccata ttttgcatag gacgccctaa agactaggtg acttggcaaa cacacaagtg
+     3481 ttagtataat tctttgcttc tgcttctttt tgaaaatcat gtttagattt gattttaagt
+     3541 cagaaattca ctgaatgtca ggtaatcatt atggagggag atttgtgtgt caaccaaagt
+     3601 aattgtccca tggccccagg gtatttctgt tgtttccctg aaattctgct tttttagtca
+     3661 gctagattga aaactctgaa cagtagatgt ttatatggca aaatgcaaga caatctacaa
+     3721 gggagatttt aaggattttg agatgaaaaa acagatgcta ctcaggggct ttatgaacca
+     3781 tccatcaatt ctgaagttct gactctccca ttaccctttc cctggtgtgg tcagaactcc
+     3841 aggtcactgg aagttagtgg aatcatgtag ttgaattctt tacttcaaga cattgtattc
+     3901 tctccagcta tcaaaacatt aatgatcttt tatgtctttt ttttgttatt gttatacttt
+     3961 aagttctggg gtacatgtgc ggaacatgta ggtttgttac ataggtatac atgtgccatg
+     4021 gtggtttgct gcactcatca acctgtcatc tacattcttt tatgtctgtc tttcaaagca
+     4081 acactctgtt cttctgagta gtgaaatcag gtcaacttta ccaccagcct ccatttttaa
+     4141 tatgcttcac catcatccag cacctactta agatttatct agggctctgt ggtgatgtta
+     4201 ggacccataa aagaaattta tgccttccat atgtttggtt acagatggga aatgggaatg
+     4261 ttgaaggaca tgaaagaaag gatgtttaca cattaagcat cagttctgaa gctagattgt
+     4321 ctgagtttga atcttagctc ttccctttat tagctctgtg acctcgagct agttacttaa
+     4381 atgctctgat cctctatttc ctgatcagtg aaacctccct attcaaatgt gtgagagttt
+     4441 aataaattag gacacttaaa aatgttggag cagtgcatag catgtagtgt tcagtacatg
+     4501 ttaaatgttg ttttttatta tgtacaaaca tgagtgggca cagaatttta aatcatctca
+     4561 acttttgaga aattttgagt tatcaacacc gttcccacaa gacagtggca aaattattgg
+     4621 tgagaattaa acagctgttt ctcagaggaa gcaatggagg cttgctggga taaaggcatt
+     4681 tactgagagg ctgttaccta gtgagagtga tgaattaatt aaaatagtcg aatccctttc
+     4741 tgactgtctc tgaaagcttc cgcttttatc tttgaagagc agaattgtca ctccaaggac
+     4801 atttattaat aaaaagaaca actgtccagt gcaatgaagg caaagtcata ggtctcccaa
+     4861 gtcttacccc attcctgtga aatatcaagt tcttggcttt tctctgtcat gtagcctcaa
+     4921 ctttctctga ccgggtgcat ttctttctct ggtttctaaa ttgccagtgg caaatttgga
+     4981 tcacttactt aatatctgtt aaattttgtg acccaacaaa gtcttttagc actgtggtgt
+     5041 caaaaagaaa aacacctccc aggcatatac attttataga ttcctggaga atgttgctct
+     5101 ccagctccat ccccacccaa tgaaatatga tccagagagt cttgcaaaga gacaagcctc
+     5161 attttccaca attagctcta aagtgcctcc aggaaatgat tttctcagct catctctctg
+     5221 tattccctgt tttggatcac agggcaatct gtttaaatga ctaattacag aaatcattaa
+     5281 aggcaccaag caaatgtcat ctctgaatac acacatccca agctttacaa atcctgcctg
+     5341 gcttgacagt gatgaggcca cttaacagtc cagcgcaggc ggatgttaaa aaaaataaaa
+     5401 aggtgaccat ctgcggttta gttttttaac tttctgattt cacacttaac gtctgtcatt
+     5461 ctgttactgg gcacctgttt aaattctatt ttaaaatgtt aatgtgtgtt gtttaaaata
+     5521 aaatcaagaa agagaga
+//
+

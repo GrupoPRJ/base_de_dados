@@ -1,0 +1,490 @@
+LOCUS       NR_147094               5534 bp    RNA     linear   PRI 14-DEC-2022
+DEFINITION  Homo sapiens ATP binding cassette subfamily C member 8 (ABCC8),
+            transcript variant 6, non-coding RNA.
+ACCESSION   NR_147094 XR_001747947
+VERSION     NR_147094.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5534)
+  AUTHORS   Tran NQ, Truong SD, Ma PT, Hoang CK, Le BH, Dinh TTN, Van Tran L,
+            Tran TV, Le LHG, Le KT, Nguyen HT, Vu HA, Mai TP and Do MD.
+  TITLE     Association of KCNJ11 and ABCC8 single-nucleotide polymorphisms
+            with type 2 diabetes mellitus in a Kinh Vietnamese population
+  JOURNAL   Medicine (Baltimore) 101 (46), e31653 (2022)
+   PUBMED   36401380
+  REMARK    GeneRIF: Association of KCNJ11 and ABCC8 single-nucleotide
+            polymorphisms with type 2 diabetes mellitus in a Kinh Vietnamese
+            population.
+REFERENCE   2  (bases 1 to 5534)
+  AUTHORS   Warncke K, Eckert A, Kapellen T, Kummer S, Raile K, Dunstheimer D,
+            Grulich-Henn J, Woelfle J, Wenzel S, Hofer SE, Dost A and Holl RW.
+  TITLE     Clinical presentation and long-term outcome of patients with
+            KCNJ11/ABCC8 variants: Neonatal diabetes or MODY in the DPV
+            registry from Germany and Austria
+  JOURNAL   Pediatr Diabetes 23 (7), 999-1008 (2022)
+   PUBMED   35822653
+  REMARK    GeneRIF: Clinical presentation and long-term outcome of patients
+            with KCNJ11/ABCC8 variants: Neonatal diabetes or MODY in the DPV
+            registry from Germany and Austria.
+REFERENCE   3  (bases 1 to 5534)
+  AUTHORS   Boodhansingh KE, Yang Z, Li C, Chen P, Lord K, Becker SA, States
+            LJ, Adzick NS, Bhatti T, Shyng SL, Ganguly A, Stanley CA and De
+            Leon DD.
+  TITLE     Localized islet nuclear enlargement hyperinsulinism (LINE-HI) due
+            to ABCC8 and GCK mosaic mutations
+  JOURNAL   Eur J Endocrinol 187 (2), 301-313 (2022)
+   PUBMED   35674212
+  REMARK    GeneRIF: Localized islet nuclear enlargement hyperinsulinism
+            (LINE-HI) due to ABCC8 and GCK mosaic mutations.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5534)
+  AUTHORS   Bryan J, Munoz A, Zhang X, Dufer M, Drews G, Krippeit-Drews P and
+            Aguilar-Bryan L.
+  TITLE     ABCC8 and ABCC9: ABC transporters that regulate K+ channels
+  JOURNAL   Pflugers Arch 453 (5), 703-718 (2007)
+   PUBMED   16897043
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 5534)
+  AUTHORS   Inagaki N, Gonoi T, Clement JP 4th, Namba N, Inazawa J, Gonzalez G,
+            Aguilar-Bryan L, Seino S and Bryan J.
+  TITLE     Reconstitution of IKATP: an inward rectifier subunit plus the
+            sulfonylurea receptor
+  JOURNAL   Science 270 (5239), 1166-1170 (1995)
+   PUBMED   7502040
+REFERENCE   6  (bases 1 to 5534)
+  AUTHORS   Thomas PM, Cote GJ, Wohllk N, Haddad B, Mathew PM, Rabl W,
+            Aguilar-Bryan L, Gagel RF and Bryan J.
+  TITLE     Mutations in the sulfonylurea receptor gene in familial persistent
+            hyperinsulinemic hypoglycemia of infancy
+  JOURNAL   Science 268 (5209), 426-429 (1995)
+   PUBMED   7716548
+REFERENCE   7  (bases 1 to 5534)
+  AUTHORS   Aguilar-Bryan L, Nichols CG, Wechsler SW, Clement JP 4th, Boyd AE
+            3rd, Gonzalez G, Herrera-Sosa H, Nguy K, Bryan J and Nelson DA.
+  TITLE     Cloning of the beta cell high-affinity sulfonylurea receptor: a
+            regulator of insulin secretion
+  JOURNAL   Science 268 (5209), 423-426 (1995)
+   PUBMED   7716547
+REFERENCE   8  (bases 1 to 5534)
+  AUTHORS   Naylor,R., Knight Johnson,A. and del Gaudio,D.
+  TITLE     Maturity-Onset Diabetes of the Young Overview
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   29792621
+REFERENCE   9  (bases 1 to 5534)
+  AUTHORS   De Leon,D.D. and Stanley,C.A.
+  TITLE     Permanent Neonatal Diabetes Mellitus
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301620
+REFERENCE   10 (bases 1 to 5534)
+  AUTHORS   Gillis,D.
+  TITLE     Familial Hyperinsulinism
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301549
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC124798.5.
+            
+            On Jul 13, 2019 this sequence version replaced NR_147094.1.
+            
+            Summary: The protein encoded by this gene is a member of the
+            superfamily of ATP-binding cassette (ABC) transporters. ABC
+            proteins transport various molecules across extra- and
+            intra-cellular membranes. ABC genes are divided into seven distinct
+            subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This
+            protein is a member of the MRP subfamily which is involved in
+            multi-drug resistance. This protein functions as a modulator of
+            ATP-sensitive potassium channels and insulin release. Mutations in
+            the ABCC8 gene and deficiencies in the encoded protein have been
+            observed in patients with hyperinsulinemic hypoglycemia of infancy,
+            an autosomal recessive disorder of unregulated and high insulin
+            secretion. Mutations have also been associated with
+            non-insulin-dependent diabetes mellitus type II, an autosomal
+            dominant disease of defective insulin secretion. Alternatively
+            spliced transcript variants have been found for this gene.
+            [provided by RefSeq, Jul 2020].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803612.10261.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145313 [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-217               AC124798.5         126486-126702       c
+            218-359             AC124798.5         124743-124884       c
+            360-481             AC124798.5         119958-120079       c
+            482-648             AC124798.5         113295-113461       c
+            649-888             AC124798.5         111443-111682       c
+            889-1077            AC124798.5         110345-110533       c
+            1078-1242           AC124798.5         102976-103140       c
+            1243-1398           AC124798.5         98373-98528         c
+            1399-1533           AC124798.5         93035-93169         c
+            1534-1696           AC124798.5         92577-92739         c
+            1697-1737           AC124798.5         82061-82101         c
+            1738-1883           AC124798.5         80671-80816         c
+            1884-1989           AC124798.5         78422-78527         c
+            1990-2106           AC124798.5         78146-78262         c
+            2107-2182           AC124798.5         77724-77799         c
+            2183-2288           AC124798.5         76906-77011         c
+            2289-2324           AC124798.5         66787-66822         c
+            2325-2360           AC124798.5         65161-65196         c
+            2361-2459           AC124798.5         64369-64467         c
+            2460-2544           AC124798.5         63251-63335         c
+            2545-2625           AC124798.5         62523-62603         c
+            2626-2763           AC124798.5         60373-60510         c
+            2764-2889           AC124798.5         58249-58374         c
+            2890-2989           AC124798.5         57211-57310         c
+            2990-3311           AC124798.5         56745-57066         c
+            3312-3478           AC124798.5         56479-56645         c
+            3479-3548           AC124798.5         55351-55420         c
+            3549-3706           AC124798.5         54369-54526         c
+            3707-3799           AC124798.5         52518-52610         c
+            3800-3902           AC124798.5         48196-48298         c
+            3903-4016           AC124798.5         47541-47654         c
+            4017-4414           AC124798.5         46773-47170         c
+            4415-4493           AC124798.5         45709-45787         c
+            4494-4602           AC124798.5         45467-45575         c
+            4603-4706           AC124798.5         45029-45132         c
+            4707-4840           AC124798.5         44123-44256         c
+            4841-4903           AC124798.5         43554-43616         c
+            4904-5534           AC124798.5         42355-42985         c
+FEATURES             Location/Qualifiers
+     source          1..5534
+                     /organism="Homo sapiens"
+                     /mol_type="transcribed RNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.1"
+     gene            1..5534
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /note="ATP binding cassette subfamily C member 8"
+                     /db_xref="GeneID:6833"
+                     /db_xref="HGNC:HGNC:59"
+                     /db_xref="MIM:600509"
+     misc_RNA        1..5534
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /product="ATP binding cassette subfamily C member 8,
+                     transcript variant 6"
+                     /db_xref="GeneID:6833"
+                     /db_xref="HGNC:HGNC:59"
+                     /db_xref="MIM:600509"
+     exon            1..217
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    70..3012
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="COORDINATES:
+                     alignment:Blast2seq::RefSeq|NM_001351296.2"
+                     /note="primary ORF has stop codon >50 nucleotides from the
+                     terminal splice site; nonsense-mediated decay (NMD)
+                     candidate"
+     exon            218..359
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            360..481
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            482..648
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            649..888
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            889..1077
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1078..1242
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1243..1398
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1399..1533
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1534..1696
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1697..1737
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1738..1883
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1884..1989
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1990..2106
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2107..2182
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2183..2288
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2289..2324
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2325..2360
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2361..2459
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2460..2544
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2545..2625
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2626..2763
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2764..2889
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2890..2989
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2990..3311
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3312..3478
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3479..3548
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3549..3706
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3707..3799
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3800..3902
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3903..4016
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4017..4414
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4415..4493
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4494..4602
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4603..4706
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4707..4840
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4841..4903
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4904..5534
+                     /gene="ABCC8"
+                     /gene_synonym="ABC36; HHF1; HI; HRINS; MRP8; PHHI; PNDM3;
+                     SUR; SUR1; SUR1delta2; TNDM2"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 agaggcgcgg caggcgcgcg gagccagcgg agccagctga gcccgagccc agcccgcgcc
+       61 cgcgccgcca tgcccctggc cttctgcggc agcgagaacc actcggccgc ctaccgggtg
+      121 gaccaggggg tcctcaacaa cggctgcttt gtggacgcgc tcaacgtggt gccgcacgtc
+      181 ttcctactct tcatcacctt ccccatcctc ttcattggat ggggaagtca gagctccaag
+      241 gtgcacatcc accacagcac atggcttcat ttccctgggc acaacctgcg gtggatcctg
+      301 accttcatgc tgctcttcgt cctggtgtgt gagattgcag agggcatcct gtctgatggg
+      361 gtgaccgaat cccaccatct gcacctgtac atgccagccg ggatggcgtt catggctgct
+      421 gtcacctccg tggtctacta tcacaacatc gagacttcca acttccccaa gctgctaatt
+      481 gccctgctgg tgtattggac cctggccttc atcaccaaga ccatcaagtt tgtcaagttc
+      541 ttggaccacg ccatcggctt ctcgcagcta cgcttctgcc tcacagggct gctggtgatc
+      601 ctctatggga tgctgctcct cgtggaggtc aatgtcatca gggtgaggag atacatcttc
+      661 ttcaagacac cgagggaggt gaagcctccc gaggacctgc aagacctggg ggtacgcttc
+      721 ctgcagccct tcgtgaatct gctgtccaaa ggcacctact ggtggatgaa cgccttcatc
+      781 aagactgccc acaagaagcc catcgacttg cgagccatcg ggaagctgcc catcgccatg
+      841 agggccctca ccaactacca acggctctgc gaggcctttg acgcccagcg gaaggacatt
+      901 cagggcactc aaggtgcccg ggccatctgg caggcactca gccatgcctt cgggaggcgc
+      961 ctggtcctca gcagcacttt ccgcatcttg gccgacctgc tgggcttcgc cgggccactg
+     1021 tgcatctttg ggatcgtgga ccaccttggg aaggagaacg acgtcttcca gcccaagaca
+     1081 caatttctcg gggtttactt tgtctcatcc caagagttcc ttgccaatgc ctacgtctta
+     1141 gctgtgcttc tgttccttgc cctcctactg caaaggacat ttctgcaagc atcctactat
+     1201 gtggccattg aaactggaat taacttgaga ggagcaatac agaccaagat ttacaataaa
+     1261 attatgcacc tgtccacctc caacctgtcc atgggagaaa tgactgctgg acagatctgt
+     1321 aatctggttg ccatcgacac caatcagctc atgtggtttt tcttcttgtg cccaaacctc
+     1381 tgggctatgc cagtacagat cattgtgggt gtgattctcc tctactacat actcggagtc
+     1441 agtgccttaa ttggagcagc tgtcatcatt ctactggctc ctgtccagta cttcgtggcc
+     1501 accaagctgt ctcaggccca gcggagcaca ctggagtatt ccaatgagcg gctgaagcag
+     1561 accaacgaga tgctccgcgg catcaagctg ctgaagctgt acgcctggga gaacatcttc
+     1621 cgcacgcggg tggagacgac ccgcaggaag gagatgacca gcctcagggc ctttgccatc
+     1681 tatacctcca tctccatttt catgaacacg gccatcccca ttgcagctgt cctcataact
+     1741 ttcgtgggcc acgtcagctt cttcaaagag gccgacttct cgccctccgt ggcctttgcc
+     1801 tccctctccc tcttccatat cttggtcaca ccgctgttcc tgctgtccag tgtggtccga
+     1861 tctaccgtca aagctctagt gagcgtgcaa aagctaagcg agttcctgtc cagtgcagag
+     1921 atccgtgagg agcagtgtgc cccccatgag cccacacctc agggcccagc cagcaagtac
+     1981 caggcggtgc ccctcagggt tgtgaaccgc aagcgtccag cccgggagga ttgtcggggc
+     2041 ctcaccggcc cactgcagag cctggtcccc agtgcagatg gcgatgctga caactgctgt
+     2101 gtccagatca tgggaggcta cttcacgtgg accccagatg gaatccccac actgtccaac
+     2161 atcaccattc gtatcccccg aggccagctg actatgatcg tggggcaggt gggctgcggc
+     2221 aagtcctcgc tccttctagc cgcactgggg gagatgcaga aggtctcagg ggctgtcttc
+     2281 tggagcagca gccttcctga cagcgagata ggagaggacc ccagcccaga gcgggagaca
+     2341 gcgaccgact tggatatcag gaagagaggc cccgtggcct atgcttcgca gaaaccatgg
+     2401 ctgctaaatg ccactgtgga ggagaacatc atctttgaga gtcccttcaa caaacaacgg
+     2461 tacaagatgg tcattgaagc ctgctctctg cagccagaca tcgacatcct gccccatgga
+     2521 gaccagaccc agattgggga acggggcatc aacctgtctg gtggtcaacg ccagcgaatc
+     2581 agtgtggccc gagccctcta ccagcacgcc aacgttgtct tcttggatga ccccttctca
+     2641 gctctggata tccatctgag tgaccactta atgcaggccg gcatccttga gctgctccgg
+     2701 gacgacaaga ggacagtggt cttagtgacc cacaagctac agtacctgcc ccatgcagac
+     2761 tggatcattg ccatgaagga tggcaccatc cagagggagg gtaccctcaa ggacttccag
+     2821 aggtctgaat gccagctctt tgagcactgg aagaccctca tgaaccgaca ggaccaagag
+     2881 ctggagaagg agactgtcac agagagaaaa gccacagagc caccccaggg cctatctcgt
+     2941 gccatgtcct cgagggatgg ccttctgcag gatgaggaag aggaggaagt aagtggggat
+     3001 aaaatgccct gattcaccct cagagggatg gaaatgtgta gccacagagt gggttcttgc
+     3061 ggcctgcaga ggaggcagct gagagcgagg aggatgacaa cctgtcgtcc atgctgcacc
+     3121 agcgtgctga gatcccatgg cgagcctgcg ccaagtacct gtcctccgcc ggcatcctgc
+     3181 tcctgtcgtt gctggtcttc tcacagctgc tcaagcacat ggtcctggtg gccatcgact
+     3241 actggctggc caagtggacc gacagcgccc tgaccctgac ccctgcagcc aggaactgct
+     3301 ccctcagcca ggagtgcacc ctcgaccaga ctgtctatgc catggtgttc acggtgctct
+     3361 gcagcctggg cattgtgctg tgcctcgtca cgtctgtcac tgtggagtgg acagggctga
+     3421 aggtggccaa gagactgcac cgcagcctgc taaaccggat catcctagcc cccatgaggt
+     3481 tttttgagac cacgcccctt gggagcatcc tgaacagatt ttcatctgac tgtaacacca
+     3541 tcgaccagca catcccatcc acgctggagt gcctgagccg ctccaccctg ctctgtgtct
+     3601 cagccctggc cgtcatctcc tatgtcacac ctgtgttcct cgtggccctc ttgcccctgg
+     3661 ccatcgtgtg ctacttcatc cagaagtact tccgggtggc gtccagggac ctgcagcagc
+     3721 tggatgacac cacccagctt ccacttctct cacactttgc cgaaaccgta gaaggactca
+     3781 ccaccatccg ggccttcagg tatgaggccc ggttccagca gaagcttctc gaatacacag
+     3841 actccaacaa cattgcttcc ctcttcctca cagctgccaa cagatggctg gaagtccgaa
+     3901 tggagtacat cggtgcatgt gtggtgctca tcgcagcggt gacctccatc tccaactccc
+     3961 tgcacaggga gctctctgct ggcctggtgg gcctgggcct tacctacgcc ctaatggtct
+     4021 ccaactacct caactggatg gtgaggaacc tggcagacat ggagctccag ctgggggctg
+     4081 tgaagcgcat ccatgggctc ctgaaaaccg aggcagagag ctacgagggg ctcctgggtg
+     4141 agaggctcag ggagaggggt ggggaagagt ccaaggagga gtgtgtctgg gttgggggcc
+     4201 acaagggagc ctggggatgg ggtggcactt tcggatacta gctgtggccc atgcctggtg
+     4261 gctgagccca gcccggcccc cagcaccatc gctgatccca aagaactggc cagaccaagg
+     4321 gaagatccag atccagaacc tgagcgtgcg ctacgacagc tccctgaagc cggtgctgaa
+     4381 gcacgtcaat gccctcatcg cccctggaca gaagatcggg atctgcggcc gcaccggcag
+     4441 tgggaagtcc tccttctctc ttgccttctt ccgcatggtg gacacgttcg aagggcacat
+     4501 catcattgat ggcattgaca tcgccaaact gccgctgcac accctgcgct cacgcctctc
+     4561 catcatcctg caggaccccg tcctcttcag cggcaccatc cgatttaacc tggaccctga
+     4621 gaggaagtgc tcagatagca cactgtggga ggccctggaa atcgcccagc tgaagctggt
+     4681 ggtgaaggca ctgccaggag gcctcgatgc catcatcaca gaaggcgggg agaatttcag
+     4741 ccagggacag aggcagctgt tctgcctggc ccgggccttc gtgaggaaga ccagcatctt
+     4801 catcatggac gaggccacgg cttccattga catggccacg gaaaacatcc tccaaaaggt
+     4861 ggtgatgaca gccttcgcag accgcactgt ggtcaccatc gcgcatcgag tgcacaccat
+     4921 cctgagtgca gacctggtga tcgtcctgaa gcggggtgcc atccttgagt tcgataagcc
+     4981 agagaagctg ctcagccgga aggacagcgt cttcgcctcc ttcgtccgtg cagacaagtg
+     5041 acctgccaga gcccaagtgc catcccacat tcggaccctg cccatacccc tgcctgggtt
+     5101 ttctaactgt aaatcacttg taaataaata gatttgatta tttcctacta gaggccctaa
+     5161 gtctggtggg caggggctgg cggtggatgg tgggttcagt agaaccagcc tggctctgac
+     5221 atcaggcaga agctgtgtga gcaaaagcct gcttccttac ctgtgaaatg aggcctctat
+     5281 tagtcagcca ggctgccaca acaacatatc acagactggg tggctttaaa acagactttt
+     5341 ttctcacagt tctggaggct gaagtctggg atcaaggtgt tggcaggttt ggtttctcct
+     5401 gaggcctctc tccttggctt gcagagggct gccttctggc tgtgtgctca catgaccttt
+     5461 actctgtgca catgcatccc tgctttctct ctgtgtctta aaaggacacc agtcatattg
+     5521 gattagggcc ccac
+//
+
