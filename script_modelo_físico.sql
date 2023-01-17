@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS `grupo_PRJ`.`locus` (
   `molecule` VARCHAR(45) NOT NULL,
   `segment_type` VARCHAR(45) NULL DEFAULT NULL,
   `genbank_date` VARCHAR(45) NULL DEFAULT NULL,
-  `genbank_division` VARCHAR(2) NULL DEFAULT NULL,
+  `genbank_division` VARCHAR(5) NULL DEFAULT NULL,
   PRIMARY KEY (`accession`),
   UNIQUE INDEX `accession_UNIQUE` (`accession` ASC) )
 ENGINE = InnoDB
@@ -68,7 +68,6 @@ CREATE TABLE IF NOT EXISTS `grupo_PRJ`.`pubmed` (
   `source` VARCHAR(500) NULL DEFAULT NULL,
   `issue` VARCHAR(45) NULL DEFAULT NULL,
   `pages` VARCHAR(45) NULL DEFAULT NULL,
-  `doi` VARCHAR(500) NULL DEFAULT NULL,
   PRIMARY KEY (`pubmed_id`),
   CONSTRAINT `fk_pubmed_reference1`
     FOREIGN KEY (`pubmed_id`)
